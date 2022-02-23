@@ -18,7 +18,7 @@
 
 <p>Digite os carácteres separados por espaço (ex: a b c d e f g...)</p>
 
-<p>Digite um nome para o arquivo gerado contendo a extensão (ex: senhas.txt)</p>
+<p>Digite um nome para o arquivo com as senhas (ex: senhas.txt)</p>
 
 <br>
 
